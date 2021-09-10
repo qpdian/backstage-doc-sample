@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: carpeta-fiscal
+  description: Sistema de gestion de casos fiscales
+spec:
+  owner: team-b
+  domain: playback

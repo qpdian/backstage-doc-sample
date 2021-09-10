@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: mesa-partes
+  description: Sistema de ingreso de denuncias
+spec:
+  owner: team-b
+  domain: playback
