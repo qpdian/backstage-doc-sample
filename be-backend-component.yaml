@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Core Apis
+  name: be-backend-component
   description: Principales servicios de Bandeja Extendida
   tags:
     - java
