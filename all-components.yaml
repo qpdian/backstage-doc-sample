@@ -12,7 +12,7 @@ spec:
     - ./components/queue-proxy-component.yaml
     - ./components/searcher-component.yaml
     - ./components/playback-lib-component.yaml
-    - ./components/www-artist-component.yaml
+    - ./components/bandeja-extendida-component.yaml
     - ./components/shuffle-api-component.yaml
     - ./components/wayback-archive-component.yaml
     - ./components/wayback-archive-ingestion-component.yaml
