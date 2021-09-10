@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: sistemas
+  description: Los sistemas del equipo CFE
+spec:
+  targets:
+    - ./systems/bandeja-extendida.yaml
